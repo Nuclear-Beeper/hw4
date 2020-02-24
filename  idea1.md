@@ -1,4 +1,5 @@
-Piercing the bubbles
+Click the bubbles
+
 Some small circles randomly emergy on the canvas, and they will grow bigger and bigger over time.
 The player has to use their mouse to click the circles to make them disappear.
 Whenever the circles are clicked, the player gain scores.
